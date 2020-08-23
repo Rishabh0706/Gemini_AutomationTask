@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Countries Automation Test Suite">	
+	<test name="Countries Test Cases">
+		<classes>
+			<class name="com.qa.tests.DataCompareTests">
+				<methods>
+					<!-- <include name="TC01"></include> -->
+					<!-- <include name="TC02"></include> -->
+					<include name="TC03"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

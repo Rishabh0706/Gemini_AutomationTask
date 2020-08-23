@@ -1,0 +1,30 @@
+Country Name: Afghanistan
+Data: Capital
+API Value: Kabul
+DB Value: New Delhi
+
+Country Name: Albania
+Data: Currency
+API Value: ALL
+DB Value: USD
+
+Country Name: Canada
+Data: Currency
+API Value: CAD
+DB Value: INR
+
+Country Name: Germany
+Data: Capital
+API Value: Berlin
+DB Value: Paris
+
+Country Name: India
+Data: Capital
+API Value: New Delhi
+DB Value: Kolkata
+
+Country Name: United States of America
+Data: Currency
+API Value: USD
+DB Value: EUR
+
